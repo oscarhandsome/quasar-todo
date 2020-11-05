@@ -2,6 +2,8 @@
 
 A Quasar Framework app
 
+[Link to the DEMO](https://bit.ly/2GxKFGk)
+
 ## Install the dependencies
 ```bash
 npm install
